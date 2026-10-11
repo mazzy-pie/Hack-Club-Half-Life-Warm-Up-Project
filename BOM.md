@@ -17,11 +17,10 @@
 | [MPU6050](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B00LP25V1A) | Gyroscope | 1 | $11.79 | $11.79 | [Amazon](https://www.amazon.com/HiLetgo-MPU-6050-Accelerometer-Gyroscope-Converter/dp/B00LP25V1A) |
 | [DHT11](https://www.amazon.com/dp/B0BLG7R99R) | Parts | 1 | $9.93 | $9.93 | [Amazon](https://www.amazon.com/dp/B0BLG7R99R) |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4) | Parts | 1 | $8.99 | $8.99 | [Amazon](https://www.amazon.com//dp/B0FQP8VYX4) |
-| [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY) | Parts | 1 | $11.99 | $11.99 | [Amazon](https://www.amazon.com/dp/B0CQ2VLMVY) |
 | [10k Resistor](https://www.amazon.com/dp/B0B4JFPHTW) | Parts | 1 | $4.97 | $4.97 | [Amazon](https://www.amazon.com/dp/B0B4JFPHTW) |
 | [PCB](https://www.jlcpcb.com/) | Main Board | 1 | $11.92 | $11.92 | [JLCPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$75.57** | — |
+| **Parts subtotal** | — | — | — | **$63.58** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$75.57** | — |
+| **Total** | — | — | — | **$63.58** | — |
 
-**$45.57 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$33.58 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
